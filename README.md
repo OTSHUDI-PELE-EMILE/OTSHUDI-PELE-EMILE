@@ -1,0 +1,7 @@
+- 👋 Salut, je suis @OTSHUDI-PELE-EMILE
+- 👀 Je m'intéresse au développement mobile avec Xamarin
+- 🌱 Je suis en train d'apprendre le développement mobile, en particulier avec Xamarin
+- 💞️ Je cherche à collaborer sur des projets de développement mobile et d'applications web
+- 📫 Vous pouvez me contacter par email à [emileotshudi16@gmail.com] ou via LinkedIn
+- 😄 Pronoms : Émile 
+- ⚡ Fait amusant : Je peux coder pendant des heures sans m'en rendre compte !
